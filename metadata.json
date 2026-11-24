@@ -1,0 +1,8 @@
+{
+  "name": "SKILL BRIDGE",
+  "description": "SKILL BRIDGE — AI Resume & Job Skill Gap Analyzer connecting students, colleges, and companies through AI skill mapping, placement readiness, and personalized learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
